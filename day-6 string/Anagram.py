@@ -21,3 +21,7 @@ if count1==count2:
     print("anagram")
 else:
     print("not anagram")
+
+
+
+
